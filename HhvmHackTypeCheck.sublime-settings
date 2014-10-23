@@ -1,0 +1,5 @@
+{
+  "hhvm_hack_type_check": true,
+  "hhvm_hack_client_cmd": "hh_client check",
+  "hhvm_hack_file_extensions": [".hh", ".php"]
+}
